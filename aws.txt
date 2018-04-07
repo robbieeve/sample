@@ -1,0 +1,3 @@
+https://serverless.com/blog/node-rest-api-with-serverless-lambda-and-dynamodb/
+
+https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
